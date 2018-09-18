@@ -7,8 +7,6 @@ path = "(N)orth"
 #Compass byrjun
 
 
-
-
 #Herbergin
 
 room1_1 = "(N)orth"; room1_2 = "(N)orth, (E)ast, (S)outh"; room1_3 = "(S)outh, (E)ast"
