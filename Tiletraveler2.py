@@ -2,6 +2,8 @@
 # char_x, char_y = 1, 1
 #Opna hurðin í fyrsta herbergi er í Norður, 'n'
 
+#https://github.com/geirigisla
+
 def print_doorways_available(doors):
     """Prentar út hverjar mögulegar dyragættir eru"""
     print("You can travel:", doors)
